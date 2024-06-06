@@ -45,6 +45,9 @@ Instruções para Compilação e Execução
   4. Abra o monitor serial para visualizar os dados.
   5. Os resultados também serão exibidos no display LCD I2C.
 
+Link do vídeo explicativo:
+  https://www.loom.com/share/feca76f71de0454fad95e95ea852f8ab?sid=dbbcc4b5-2a58-461c-8ac5-99d5a7763e42 
+
 Membros da Equipe
   - Jeniffer De Moraes RM: 555448
   - Maria Eduarda RM: 558457

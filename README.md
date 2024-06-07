@@ -3,6 +3,14 @@
 ## Link do projeto no wokwi: 
 https://wokwi.com/projects/399790774483378177
 
+# Link do vídeo explicativo:
+  https://www.loom.com/share/feca76f71de0454fad95e95ea852f8ab?sid=dbbcc4b5-2a58-461c-8ac5-99d5a7763e42 
+
+# Membros da Equipe
+  - Jeniffer De Moraes RM: 555448
+  - Maria Eduarda RM: 558457
+  - Matheus Diniz RM: 555683
+
 ## Descrição do Projeto
   - Este projeto visa criar um sistema de monitoramento da qualidade da água utilizando sensores de temperatura, pH, condutividade elétrica (CE) e oxigênio dissolvido (OD). O sistema lê os dados dos sensores, processa essas informações e exibe os resultados em um     
     display LCD I2C e no monitor serial. O projeto é ideal para uso em qualquer ambiente onde a qualidade da água seja crucial.
@@ -48,10 +56,3 @@ https://wokwi.com/projects/399790774483378177
   4. Abra o monitor serial para visualizar os dados.
   5. Os resultados também serão exibidos no display LCD I2C.
 
-# Link do vídeo explicativo:
-  https://www.loom.com/share/feca76f71de0454fad95e95ea852f8ab?sid=dbbcc4b5-2a58-461c-8ac5-99d5a7763e42 
-
-# Membros da Equipe
-  - Jeniffer De Moraes RM: 555448
-  - Maria Eduarda RM: 558457
-  - Matheus Diniz RM: 555683

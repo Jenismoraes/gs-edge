@@ -1,5 +1,7 @@
 Projeto de Monitoramento da Qualidade da Água
 
+Link do projeto no wokwi: https://wokwi.com/projects/399790774483378177
+
 Descrição do Projeto
   - Este projeto visa criar um sistema de monitoramento da qualidade da água utilizando sensores de temperatura, pH, condutividade elétrica (CE) e oxigênio dissolvido (OD). O sistema lê os dados dos sensores, processa essas informações e exibe os resultados em um     
     display LCD I2C e no monitor serial. O projeto é ideal para uso em qualquer ambiente onde a qualidade da água seja crucial.
